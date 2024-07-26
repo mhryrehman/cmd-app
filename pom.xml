@@ -18,7 +18,7 @@
 		<java.version>17</java.version>
 	</properties>
 	
-		<url>https://github.com/mhryrehman/hapi-fhir-keycloak</url>
+		<url>https://github.com/mhryrehman/cmd-app</url>
 	 <licenses>
   <license>
    <name>The Apache Software License, Version 2.0</name>
